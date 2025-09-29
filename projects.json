@@ -1,14 +1,14 @@
 [
     {
-        "name": "Mi Primer Proyecto",
-        "description": "Una breve descripción de lo que hace mi primer proyecto. Explica sus funcionalidades clave y tecnologías utilizadas.",
+        "name": "Area y perimetro de un triangulo, rectangulo y circulo",
+        "description": "Calcular área y perímetro de un cuadrado, circulo o triangulo utilizando HTML 5, CSS 3 y PHP",
         "readmeUrl": "https://github.com/a22300181-bru/AyPFigurasPHP/blob/main/README.md",
         "repoUrl": "https://github.com/a22300181-bru/AyPFigurasPHP/tree/main"
     },
     {
-        "name": "Mi Segundo Proyecto",
-        "description": "Este es otro proyecto importante. Detalla los problemas que resuelve y cómo lo implementaste.",
-        "readmeUrl": "https://raw.githubusercontent.com/[TuUsuario]/[nombre-del-otro-repo]/main/README.md",
-        "repoUrl": "https://github.com/[TuUsuario]/[nombre-del-repositorio]"
+        "name": "Calculadora Python",
+        "description": "Presenta una pantalla que represente una calculadora básica con las opciones de sumar, restar, dividir, multiplicar",
+        "readmeUrl": "https://github.com/a22300181-bru/CalculadoraPython/blob/main/README.md",
+        "repoUrl": "https://github.com/a22300181-bru/CalculadoraPython"
     }
 ]
